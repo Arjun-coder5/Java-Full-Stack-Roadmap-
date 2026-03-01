@@ -67,10 +67,9 @@
 ## 🤖 Step 7: Spring AI
 *The future of Java development.*
 
-- [Spring AI: Vector Databases & LLM Integration (Part 1)](https://youtu.be/7ixDDpIWn1k)
-- [Building AI Apps (Part 2)](https://youtu.be/Efs7WZ8i1t4)
+- [Complete spring ai and project](https://youtube.com/playlist?list=PLxhSr_SLdXGO6LQ-yZpwvO6a8IP7mDkMp&si=N2k7rjF3HYnGwdTo) 
 
 
-#Capston Projec : 
+#Capston Project : 
 https://youtube.com/playlist?list=PLxhSr_SLdXGPwiZOfI2ZLX4Yvm8OMaJ2A&si=U5OrxMemXhW3I1Ly
 ---
