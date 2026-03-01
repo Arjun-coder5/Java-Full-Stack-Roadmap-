@@ -58,7 +58,7 @@
 ## 🧠 Step 6: System Design (LLD + HLD)
 *Architecting scalable systems like a Senior Engineer.*
 
-- [Low Level Design (LLD) Playlist](https://youtube.com)
+- [Low Level Design (LLD) Playlist](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=847r8FMZInbgP3If))
 - [High Level Design (HLD) Concepts](https://youtube.com_)
 - **Focus:** SOLID Principles, Design Patterns (Factory, Singleton, Observer), UML, Scalability, Caching.
 
