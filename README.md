@@ -25,7 +25,7 @@
 ## 🌱 Step 2: Spring Framework & Build Tools
 *The bridge between Core Java and Enterprise Apps.*
 
-- **Build Tools:** [Maven Crash Course](https://www.youtube.com)
+- **Build Tools:** [Maven Crash Course]([https://www.youtube.com](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4))
 - **Core Spring:** [Spring Boot & IntelliJ - Real World Project](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/)
 - **Key Topics:** IoC, Dependency Injection, Bean Lifecycle, Annotations (`@Component`, `@Service`, `@Repository`).
 
