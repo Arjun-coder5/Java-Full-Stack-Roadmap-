@@ -19,7 +19,10 @@
 - [Multithreading & Concurrency](https://youtube.com/playlist?list=PLA3GkZPtsafYhmrZR_1nmQqfFSnkftOud&si=_MzT0NHNiQx3f9Ys)
 - [File Handling](https://youtu.be/b35mlSPOlJg?si=uKajLtOEZigHOaVK) & [Serialization](https://youtu.be/Uxhb3IHKMQk?si=35c7c-H0dbdHpqIp)
 - [JDBC (Database Connectivity)](https://youtu.be/sifEAuiVUac?si=ebvE-YHGshGqTqgT)
-
+---
+Project time Baby - 
+   Make a file management system 
+   Make a Banking System 
 ---
 
 ## 🌱 Step 2: Spring Framework & Build Tools
@@ -28,7 +31,9 @@
 - **Build Tools:** [Maven Crash Course](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4)
 - **Core Spring:** [Spring Boot & IntelliJ - Real World Project](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/)
 - **Key Topics:** IoC, Dependency Injection, Bean Lifecycle, Annotations (`@Component`, `@Service`, `@Repository`).
-
+---
+Project - Rest API Application 
+          Contact Management Api
 ---
 
 ## ⚡ Step 3: Spring Boot (Modern Microservices)
@@ -36,7 +41,10 @@
 
 - **REST API:** `@RestController`, Request Mapping, Global Exception Handling, Validation.
 - **Config:** `application.properties`, Profiles, Auto-Configuration.
-
+---
+Project - 
+      Full stack ecommerce Application 
+      
 ---
 
 ## 💾 Step 4: Data Persistence & Security
