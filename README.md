@@ -33,27 +33,24 @@
 - Smart Email Assistant
 - Audio Transcriber
 - Stock Photo Generator
-- Spring AI Mini Projects (Masterclass)
-- DeepSeek AI Integration
-- Google Gemini AI Integration
 ---
 ## 💾 Step 4: Data Persistence & Security
 - [Spring Data JPA & Hibernate](https://youtu.be/Uc2LZFVxHoM)
 - [Spring Security 6 (JWT & OAuth2)](https://youtu.be/Kzx8MKA7Q0Y)
+- Notes secure Application (Project)
 ---
 ## 🐳 Step 5: Microservices, Docker & Kubernetes :
 - [Microservices Architecture (Part 1)](https://youtu.be/BLlEgtp2_i8)
 - [Docker & Kubernetes Deployment (Part 2)](https://youtu.be/EeQRAxXWDF4)
+- Project - Job Application System .
+---
+## Full stack devops - [go !!](https://youtu.be/Kb-sw00KJ10?si=OE9XlHqFfBU5XoFy)
 ---
 ## 🧠 Step 6: System Design (LLD + HLD) : 
 - [Low Level Design (LLD) Playlist](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=847r8FMZInbgP3If))
 - [High Level Design (HLD) Concepts](https://youtube.com_)
-- **Focus:** SOLID Principles, Design Patterns (Factory, Singleton, Observer), UML, Scalability, Caching.
 ---
-
-- [Complete spring ai and project](https://youtube.com/playlist?list=PLxhSr_SLdXGO6LQ-yZpwvO6a8IP7mDkMp&si=N2k7rjF3HYnGwdTo) 
-
-
-#Capston Project : 
-https://youtube.com/playlist?list=PLxhSr_SLdXGPwiZOfI2ZLX4Yvm8OMaJ2A&si=U5OrxMemXhW3I1Ly
----
+Goal - 
+INTERNSHIP 
+Open source : GSOC 
+PLACEMENT 
