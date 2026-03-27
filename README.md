@@ -26,15 +26,16 @@
 -  [Go spring !!](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/43980038#overview)
 ---
 ### Major Project
--- Full Stack E-Commerce Application (Spring Boot + React + JWT + AWS)
--- AI Microservice Full Stack Project
--- Smart Research Assistant
--- Smart Email Assistant
--- Audio Transcriber
--- Stock Photo Generator
--- Spring AI Mini Projects (Masterclass)
--- DeepSeek AI Integration
--- Google Gemini AI Integration
+- Full Stack E-Commerce Application (Spring Boot + React + JWT + AWS)
+- Ai Check here - [go !!](https://youtube.com/playlist?list=PLxhSr_SLdXGO6LQ-yZpwvO6a8IP7mDkMp&si=8zy4BEj0pWVsZw9Y)
+- AI Microservice Full Stack Project
+- Smart Research Assistant
+- Smart Email Assistant
+- Audio Transcriber
+- Stock Photo Generator
+- Spring AI Mini Projects (Masterclass)
+- DeepSeek AI Integration
+- Google Gemini AI Integration
 ---
 ## 💾 Step 4: Data Persistence & Security
 - [Spring Data JPA & Hibernate](https://youtu.be/Uc2LZFVxHoM)
