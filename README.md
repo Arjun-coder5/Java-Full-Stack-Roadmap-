@@ -1,11 +1,11 @@
 ### 🔹 Fundamentals & OOP :
-- [Java Basics & Syntax](https://youtu.be/UmnCZ7-9yDY?si=LugUOyJQFEzv5evA)
+- [Java Basics & Syntax](https://youtu.be/UmnCZ7-9yDY?si=LugUOyJQFEzv5evA) -  Done 
 ---
-- [OOPs Deep Dive (Inheritance, Polymorphism, etc.)](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&si=toTOV4NtrtdOfWEH)
+- [OOPs Deep Dive (Inheritance, Polymorphism, etc.)](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&si=toTOV4NtrtdOfWEH) - Done 
 ---
 ### Project implement using oops : 
 
-### Java Employee Rolepay system : [go !!](https://youtu.be/o-JnANhtMVM?si=ilVl-489sE2IDbI3)
+### Java Employee Rolepay system : [go !!](https://youtu.be/o-JnANhtMVM?si=ilVl-489sE2IDbI3) - Done 
 ### Java Car rental System : [go !!](https://youtu.be/MHJnHv88WSI?si=z-FlN0MH5AdC9VBa)
 ---
 ### 🔹 Advanced Concepts
