@@ -10,7 +10,7 @@
 - [Java 8+ Features (Streams, Lambda)](https://youtube.com/playlist?list=PLA3GkZPtsafZR6arC1A3N0i968gk9RvMv&si=mb26avSaLh4OPV5k)
 - [Multithreading & Concurrency](https://youtube.com/playlist?list=PLA3GkZPtsafYhmrZR_1nmQqfFSnkftOud&si=_MzT0NHNiQx3f9Ys)
 - [File Handling](https://youtu.be/b35mlSPOlJg?si=uKajLtOEZigHOaVK) & [Serialization](https://youtu.be/Uxhb3IHKMQk?si=35c7c-H0dbdHpqIp)
-- [JDBC (Database Connectivity)](https://youtu.be/sifEAuiVUac?si=ebvE-YHGshGqTqgT)
+- [JDBC](https://youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&si=h0-MyglX-VevidOJ)
 ---
 ### project PRACTISE :
 - Java Employee Rolepay system : [go !!](https://youtu.be/o-JnANhtMVM?si=ilVl-489sE2IDbI3) - Done 
