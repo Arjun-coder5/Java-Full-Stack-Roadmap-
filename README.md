@@ -1,25 +1,25 @@
 ### 🔹 Fundamentals & OOP :
 - [Java Basics & Syntax](https://youtu.be/UmnCZ7-9yDY?si=LugUOyJQFEzv5evA) -  Done 
 ---
-- [OOPs Deep Dive (Inheritance, Polymorphism, etc.)](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&si=toTOV4NtrtdOfWEH) - Done 
----
-### Project implement using oops :
-
-### Java Employee Rolepay system : [go !!](https://youtu.be/o-JnANhtMVM?si=ilVl-489sE2IDbI3) - Done 
-### Java Car rental System : [go !!](https://youtu.be/MHJnHv88WSI?si=z-FlN0MH5AdC9VBa)
----
+- [OOPs Deep Dive (Inheritance, Polymorphism, etc.)](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&si=toTOV4NtrtdOfWEH) - Done
 ### 🔹 Advanced Concepts
 
 - [Java Memory Model (Heap, Stack, GC)](https://youtu.be/Z4hMFBvCDV4?si=3LzmkzmnVs_axQoH)
 - [Exception Handling](https://youtu.be/q_f3ijW2n2E?si=VPV6nzjXQWdnno0a)
-- Project - Exceptional Usage (aTM mACHINE PROJECTS)[https://www.youtube.com/watch?v=NmL3Gev4tSw]
 - [Collections Framework & Generics](https://youtu.be/92k5uokmW9o?si=6GyHe_M1YKI90SVF)
 - [Java 8+ Features (Streams, Lambda)](https://youtube.com/playlist?list=PLA3GkZPtsafZR6arC1A3N0i968gk9RvMv&si=mb26avSaLh4OPV5k)
 - [Multithreading & Concurrency](https://youtube.com/playlist?list=PLA3GkZPtsafYhmrZR_1nmQqfFSnkftOud&si=_MzT0NHNiQx3f9Ys)
 - [File Handling](https://youtu.be/b35mlSPOlJg?si=uKajLtOEZigHOaVK) & [Serialization](https://youtu.be/Uxhb3IHKMQk?si=35c7c-H0dbdHpqIp)
 - [JDBC (Database Connectivity)](https://youtu.be/sifEAuiVUac?si=ebvE-YHGshGqTqgT)
 ---
-### project advance : 
+### project PRACTISE :
+- Java Employee Rolepay system : [go !!](https://youtu.be/o-JnANhtMVM?si=ilVl-489sE2IDbI3) - Done 
+- Java Car rental System : [go !!](https://youtu.be/MHJnHv88WSI?si=z-FlN0MH5AdC9VBa)
+- Project - Exceptional Usage (aTM mACHINE PROJECTS)[https://www.youtube.com/watch?v=NmL3Gev4tSw]
+- Project - (Hospital Reservation System)[https://www.youtube.com/watch?v=OBq6vuBCpuE&list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&index=9]
+- Project - (Banking System)[https://www.youtube.com/watch?v=p_-GZTStkoI&list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&index=14]
+- Project - (Hospital Management System)[https://www.youtube.com/watch?v=ECoIdyfcObE&list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&index=15]
+- Project - (University Management System)[https://www.youtube.com/playlist?list=PLbKub4Jss9oVR0Uo9fuMFBcVsplNnSzD2]
 - Employee Management System : [go !!](https://youtu.be/ZJQKqXtzifc?si=Y3ufHAfUZznMx5zv)
 ---
 ### Java Spring Boot Full Stack E-Commerce Development : 
