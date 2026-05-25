@@ -39,15 +39,23 @@
 - [Spring Data JPA & Hibernate](https://youtu.be/Uc2LZFVxHoM)
 - [Spring Security 6 (JWT & OAuth2)](https://youtu.be/Kzx8MKA7Q0Y)
 - Notes secure Application (Project)
+- (Java testing using Selinium)[https://youtu.be/QQliGCtqD2w?si=-1-4O3FPWhqWb6hz]
 ---
-## 🐳 Step 5: Microservices, Docker & Kubernetes :
+## Step 5 :  Open sourse : 
+- (Click)[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
+---
+## 🐳 Step 6: Microservices, Docker & Kubernetes :
 - [Microservices Architecture (Part 1)](https://youtu.be/BLlEgtp2_i8)
 - [Docker & Kubernetes Deployment (Part 2)](https://youtu.be/EeQRAxXWDF4)
 - [AWS](https://youtu.be/2OHr0QnEkg4?si=sCW9uqFYMQzCmFas)
 - [CI/CD PIPELINES](https://youtu.be/Hi6MGNhImFc?si=vGc8W1jjeNuapLPb)
 - Project - Job Application System .
 ---
-## 🧠 Step 6: System Design (LLD + HLD) : 
+## Step - 7 :  Advance topic : 
+- (Redis Part 1 )[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
+- (Redis part 2 )[https://youtu.be/2srQ-RiJHps?si=oeJMtLfc4x6_Z3DR]
+- (Apche Kafka)[https://youtu.be/NWLwGtkBrkQ?si=cqrE4DHNKQ1acK5S]
+## 🧠 Step 7: System Design (LLD + HLD) : 
 - [Low Level Design (LLD) Playlist](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=847r8FMZInbgP3If))
 - [High Level Design (HLD) Concepts](https://youtube.com_)
 ---
