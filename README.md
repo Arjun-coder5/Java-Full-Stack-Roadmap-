@@ -40,7 +40,7 @@
 - [Spring Data JPA & Hibernate](https://youtu.be/Uc2LZFVxHoM)
 - [Spring Security 6 (JWT & OAuth2)](https://youtu.be/Kzx8MKA7Q0Y)
 - Notes secure Application (Project)
-- (Java testing using Selinium)[https://youtu.be/QQliGCtqD2w?si=-1-4O3FPWhqWb6hz]
+- (Junit5 and mockit)[https://youtu.be/zK1O8pIx_oM?si=jgm9T_PRUci9lKWU]
 ---
 ## Step 5 :  Open sourse : 
 - (Click)[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
