@@ -43,6 +43,8 @@
 ## 🐳 Step 5: Microservices, Docker & Kubernetes :
 - [Microservices Architecture (Part 1)](https://youtu.be/BLlEgtp2_i8)
 - [Docker & Kubernetes Deployment (Part 2)](https://youtu.be/EeQRAxXWDF4)
+- [AWS](https://youtu.be/2OHr0QnEkg4?si=sCW9uqFYMQzCmFas)
+- [CI/CD PIPELINES](https://youtu.be/Hi6MGNhImFc?si=vGc8W1jjeNuapLPb)
 - Project - Job Application System .
 ---
 ## 🧠 Step 6: System Design (LLD + HLD) : 
