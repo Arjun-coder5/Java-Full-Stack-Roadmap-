@@ -45,8 +45,6 @@
 - [Docker & Kubernetes Deployment (Part 2)](https://youtu.be/EeQRAxXWDF4)
 - Project - Job Application System .
 ---
-## Full stack devops - [go !!](https://youtu.be/Kb-sw00KJ10?si=OE9XlHqFfBU5XoFy)
----
 ## 🧠 Step 6: System Design (LLD + HLD) : 
 - [Low Level Design (LLD) Playlist](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=847r8FMZInbgP3If))
 - [High Level Design (HLD) Concepts](https://youtube.com_)
