@@ -1,9 +1,4 @@
-### 🔹 Fundamentals & OOP :
-- [Java Basics & Syntax](https://youtu.be/UmnCZ7-9yDY?si=LugUOyJQFEzv5evA) -  Done 
----
-- [OOPs Deep Dive (Inheritance, Polymorphism, etc.)](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&si=toTOV4NtrtdOfWEH) - Done
-### 🔹 Advanced Concepts
-
+### 🔹 Advanced Concepts - core Java :) 
 - [Java Memory Model (Heap, Stack, GC)](https://youtu.be/Z4hMFBvCDV4?si=3LzmkzmnVs_axQoH)
 - [Exception Handling](https://youtu.be/IZu5rZTN7PI?si=G4HRFe6BX3FHFHb9)
 - [Collections Framework & Generics](https://youtu.be/92k5uokmW9o?si=6GyHe_M1YKI90SVF)
@@ -42,7 +37,7 @@
 - Notes secure Application (Project)
 - (Junit5 and mockit)[https://youtu.be/zK1O8pIx_oM?si=jgm9T_PRUci9lKWU]
 ---
-## Step 5 :  Open sourse : 
+## Step 5 :  Open source : 
 - (Click)[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
 ---
 ## Step 6: Linux : 
@@ -59,10 +54,6 @@
 - (Redis part 2 )[https://youtu.be/2srQ-RiJHps?si=oeJMtLfc4x6_Z3DR]
 - (Apche Kafka)[https://youtu.be/NWLwGtkBrkQ?si=cqrE4DHNKQ1acK5S]
 ## 🧠 Step 9: System Design (LLD + HLD) : 
-- [Low Level Design (LLD) Playlist](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=847r8FMZInbgP3If))
-- [High Level Design (HLD) Concepts](https://youtube.com_)
+- [Low Level Design (LLD) Playlist]())
+
 ---
-Goal - 
-INTERNSHIP 
-Open source : GSOC 
-PLACEMENT 
