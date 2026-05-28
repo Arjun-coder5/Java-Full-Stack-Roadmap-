@@ -53,7 +53,4 @@
 - (Redis Part 1 )[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
 - (Redis part 2 )[https://youtu.be/2srQ-RiJHps?si=oeJMtLfc4x6_Z3DR]
 - (Apche Kafka)[https://youtu.be/NWLwGtkBrkQ?si=cqrE4DHNKQ1acK5S]
-## 🧠 Step 9: System Design (LLD + HLD) : 
-- [Low Level Design (LLD) Playlist]())
-
 ---
