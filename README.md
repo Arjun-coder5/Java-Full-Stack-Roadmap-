@@ -4,19 +4,14 @@
 - [Collection Framework](https://youtu.be/VE_AAUxTUCY?si=Uw6mv_-pNHADD_Kf) - 1 Day 
 - [Java 8+ Features (Streams, Lambda)](https://youtube.com/playlist?list=PLA3GkZPtsafZR6arC1A3N0i968gk9RvMv&si=mb26avSaLh4OPV5k) - 1 day 
 - [Multithreading & Concurrency](https://youtu.be/WldMTtUWqTg?si=R3-qVCmarLk9_EzH) - 1 Day 
-- [File Handling](https://youtu.be/b35mlSPOlJg?si=uKajLtOEZigHOaVK) & [Serialization](https://youtu.be/Uxhb3IHKMQk?si=35c7c-H0dbdHpqIp)
-- [MySql](https://youtu.be/Hy3qbMAoEJk?si=Gz651-grxeThdpXH)
+- [File Handling](https://youtu.be/b35mlSPOlJg?si=uKajLtOEZigHOaVK) & [Serialization](https://youtu.be/Uxhb3IHKMQk?si=35c7c-H0dbdHpqIp) - 1 Day 
+- [MySql](https://youtu.be/Hy3qbMAoEJk?si=Gz651-grxeThdpXH) - 2 Day 
 - [JDBC](https://youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&si=h0-MyglX-VevidOJ)
 ---
 ### project PRACTISE :
 - Java Employee Rolepay system : [go !!](https://youtu.be/o-JnANhtMVM?si=ilVl-489sE2IDbI3) - Done 
 - Java Car rental System : [go !!](https://youtu.be/MHJnHv88WSI?si=z-FlN0MH5AdC9VBa)
-- Project - Exceptional Usage (aTM mACHINE PROJECTS)[https://www.youtube.com/watch?v=NmL3Gev4tSw]
-- Project - (Hospital Reservation System)[https://www.youtube.com/watch?v=OBq6vuBCpuE&list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&index=9]
-- Project - (Banking System)[https://www.youtube.com/watch?v=p_-GZTStkoI&list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&index=14]
-- Project - (Hospital Management System)[https://www.youtube.com/watch?v=ECoIdyfcObE&list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&index=15]
-- Project - (University Management System)[https://www.youtube.com/playlist?list=PLbKub4Jss9oVR0Uo9fuMFBcVsplNnSzD2]
-- Employee Management System : [go !!](https://youtu.be/ZJQKqXtzifc?si=Y3ufHAfUZznMx5zv)
+- In JDBC
 ---
 ### Java Spring Boot Full Stack E-Commerce Development : 
 -  [Maven Crash Course](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4)
