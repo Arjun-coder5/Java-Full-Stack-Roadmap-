@@ -1,9 +1,9 @@
 ### 🔹 Advanced Concepts - core Java :) 
 - [Java Memory Model (Heap, Stack, GC)](https://youtu.be/Z4hMFBvCDV4?si=3LzmkzmnVs_axQoH) - Done 
 - [Exception Handling](https://youtu.be/IZu5rZTN7PI?si=G4HRFe6BX3FHFHb9) - Done 
-- [Collection Framework](https://youtu.be/VE_AAUxTUCY?si=Uw6mv_-pNHADD_Kf) 
-- [Java 8+ Features (Streams, Lambda)](https://youtube.com/playlist?list=PLA3GkZPtsafZR6arC1A3N0i968gk9RvMv&si=mb26avSaLh4OPV5k)
-- [Multithreading & Concurrency](https://youtube.com/playlist?list=PLA3GkZPtsafYhmrZR_1nmQqfFSnkftOud&si=_MzT0NHNiQx3f9Ys)
+- [Collection Framework](https://youtu.be/VE_AAUxTUCY?si=Uw6mv_-pNHADD_Kf) - 1 Day 
+- [Java 8+ Features (Streams, Lambda)](https://youtube.com/playlist?list=PLA3GkZPtsafZR6arC1A3N0i968gk9RvMv&si=mb26avSaLh4OPV5k) - 1 day 
+- [Multithreading & Concurrency](https://youtube.com/playlist?list=PLA3GkZPtsafYhmrZR_1nmQqfFSnkftOud&si=_MzT0NHNiQx3f9Ys) - 
 - [File Handling](https://youtu.be/b35mlSPOlJg?si=uKajLtOEZigHOaVK) & [Serialization](https://youtu.be/Uxhb3IHKMQk?si=35c7c-H0dbdHpqIp)
 - [MySql](https://youtu.be/Hy3qbMAoEJk?si=Gz651-grxeThdpXH)
 - [JDBC](https://youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&si=h0-MyglX-VevidOJ)
