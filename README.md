@@ -1,7 +1,7 @@
 ### 🔹 Advanced Concepts - core Java :) 
 - [Java Memory Model (Heap, Stack, GC)](https://youtu.be/Z4hMFBvCDV4?si=3LzmkzmnVs_axQoH) - Done 
 - [Exception Handling](https://youtu.be/IZu5rZTN7PI?si=G4HRFe6BX3FHFHb9) - Done 
-- [Collections Framework & Generics](https://youtu.be/92k5uokmW9o?si=6GyHe_M1YKI90SVF)
+- [Collection Framework](https://youtu.be/VE_AAUxTUCY?si=Uw6mv_-pNHADD_Kf) 
 - [Java 8+ Features (Streams, Lambda)](https://youtube.com/playlist?list=PLA3GkZPtsafZR6arC1A3N0i968gk9RvMv&si=mb26avSaLh4OPV5k)
 - [Multithreading & Concurrency](https://youtube.com/playlist?list=PLA3GkZPtsafYhmrZR_1nmQqfFSnkftOud&si=_MzT0NHNiQx3f9Ys)
 - [File Handling](https://youtu.be/b35mlSPOlJg?si=uKajLtOEZigHOaVK) & [Serialization](https://youtu.be/Uxhb3IHKMQk?si=35c7c-H0dbdHpqIp)
