@@ -10,32 +10,34 @@
 ### project PRACTISE :
 - Java Employee Rolepay system : [go !!](https://youtu.be/o-JnANhtMVM?si=ilVl-489sE2IDbI3) - Done 
 - Java Car rental System : [go !!](https://youtu.be/MHJnHv88WSI?si=z-FlN0MH5AdC9VBa)
-- In JDBC
+- Hotel Reservation System
+- Banking System
+- Hostipal Management System
 ---
-### Java Spring Boot Full Stack E-Commerce Development : 
+### Spring framework and Spring Boot
 -  [Maven Crash Course](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4)
--  [Go spring !!](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/43980038#overview)
----
-### Major Project
-- Full Stack E-Commerce Application (Spring Boot + React + JWT + AWS)
-- Ai Check here - [go !!](https://youtube.com/playlist?list=PLxhSr_SLdXGO6LQ-yZpwvO6a8IP7mDkMp&si=8zy4BEj0pWVsZw9Y)
-- AI Microservice Full Stack Project
-- Smart Research Assistant
-- Smart Email Assistant
-- Audio Transcriber
-- Stock Photo Generator
----
-## 💾 Step 4: Data Persistence & Security
-- [Spring Data JPA & Hibernate](https://youtu.be/Uc2LZFVxHoM)
-- [Spring Security 6 (JWT & OAuth2)](https://youtu.be/Kzx8MKA7Q0Y)
-- Notes secure Application (Project)
-- (Junit5 and mockit)[https://youtu.be/zK1O8pIx_oM?si=jgm9T_PRUci9lKWU]
+-  [Spring Framework](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=_tXYJrP6mOCuE1DA)
+-  [Spring Boot](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=5iEp4ay-CGApVEVT)
 ---
 ## Step 5 :  Open source : 
 - (Click)[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
 ---
+## Frontend : 
+- [Go !!](https://youtube.com/playlist?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&si=M_EV-PuEPQqhJeXn)
+---
+## Full Stack Project : 
+- [Ecommerce Project](https://youtube.com/playlist?list=PL7Oro2kvkIzK9X9ctS7bK3VVq0zsEYQsR&si=yopVLQItdIZFtP_J)
+- [Task Management Project](https://youtube.com/playlist?list=PL7Oro2kvkIzISiwQwemiIvZiYtHfTfSWr&si=sDvWLf0FaH-mNgmJ)
+- [Project Management System](https://youtube.com/playlist?list=PL7Oro2kvkIzIvhewSNelK4mAlc3lYFjUX&si=XOlE9h5QVUmiVaXd)
+- Etc .
+- Portfolio Website . 
+---
+## Testing : 
+- (Junit5 and mockit)[https://youtu.be/zK1O8pIx_oM?si=jgm9T_PRUci9lKWU]
+---
 ## Step 6: Linux : 
----  [Click](https://youtube.com/playlist?list=PLA3GkZPtsafbK3YyxdRzF5yh1TuwGn_Lu&si=UuVe3KN8LrV6FVGc)
+-  [Click](https://youtube.com/playlist?list=PLA3GkZPtsafbK3YyxdRzF5yh1TuwGn_Lu&si=UuVe3KN8LrV6FVGc)
+---
 ## 🐳 Step 7: Microservices, Docker & Kubernetes :
 - [Microservices Architecture (Part 1)](https://youtu.be/BLlEgtp2_i8)
 - [Docker & Kubernetes Deployment (Part 2)](https://youtu.be/EeQRAxXWDF4)
@@ -43,8 +45,17 @@
 - [CI/CD PIPELINES](https://youtu.be/Hi6MGNhImFc?si=vGc8W1jjeNuapLPb)
 - Project - Job Application System .
 ---
+---
 ## Step - 8 :  Advance topic : 
 - (Redis Part 1 )[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
 - (Redis part 2 )[https://youtu.be/2srQ-RiJHps?si=oeJMtLfc4x6_Z3DR]
 - (Apche Kafka)[https://youtu.be/NWLwGtkBrkQ?si=cqrE4DHNKQ1acK5S]
 ---
+### AI - 
+- Ai Check here - [go !!](https://youtube.com/playlist?list=PLxhSr_SLdXGO6LQ-yZpwvO6a8IP7mDkMp&si=8zy4BEj0pWVsZw9Y)
+- AI Microservice Full Stack Project
+- Smart Research Assistant
+- Smart Email Assistant
+- Audio Transcriber
+- Stock Photo Generator
+
