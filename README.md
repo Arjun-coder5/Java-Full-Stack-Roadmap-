@@ -4,7 +4,7 @@
 - [Multithreading & Concurrency](https://youtu.be/WldMTtUWqTg?si=R3-qVCmarLk9_EzH](https://youtu.be/WldMTtUWqTg?si=0WGO8etbpmppkPO9)
 - [Java 8+ Features (Streams, Lambda)](https://youtube.com/playlist?list=PLA3GkZPtsafZR6arC1A3N0i968gk9RvMv&si=mb26avSaLh4OPV5k) 
 - [File Handling](https://youtu.be/yfMWLZGEPwo?si=jIxhVw3mwufUtU0m)
-- [MySql](https://youtu.be/Hy3qbMAoEJk?si=Gz651-grxeThdpXH)  
+- [MySql To JDBC  ](https://youtube.com/playlist?list=PL0zysOflRCekwpUvyfadb7niCesi8d97r&si=-LgFtI7hiWaOibA2)
 - [JDBC](https://youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&si=h0-MyglX-VevidOJ)
 ---
 ### project PRACTISE :
