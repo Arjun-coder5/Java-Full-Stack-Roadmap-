@@ -1,7 +1,7 @@
 ### 🔹 Advanced Concepts - core Java :) 
 - [Exception Handling](https://youtu.be/IZu5rZTN7PI?si=G4HRFe6BX3FHFHb9)
 - [Collection Framework](https://youtu.be/VE_AAUxTUCY?si=Qmd2lcZ77NKTcV8W)
-- [Multithreading & Concurrency]([https://youtu.be/WldMTtUWqTg?si=R3-qVCmarLk9_EzH](https://youtu.be/WldMTtUWqTg?si=0WGO8etbpmppkPO9)) 
+- [Multithreading & Concurrency](https://youtu.be/WldMTtUWqTg?si=R3-qVCmarLk9_EzH](https://youtu.be/WldMTtUWqTg?si=0WGO8etbpmppkPO9)
 - [Java 8+ Features (Streams, Lambda)](https://youtube.com/playlist?list=PLA3GkZPtsafZR6arC1A3N0i968gk9RvMv&si=mb26avSaLh4OPV5k) 
 - [File Handling](https://youtu.be/yfMWLZGEPwo?si=jIxhVw3mwufUtU0m)
 - [MySql](https://youtu.be/Hy3qbMAoEJk?si=Gz651-grxeThdpXH)  
