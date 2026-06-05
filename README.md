@@ -23,7 +23,13 @@
 -  [Spring Framework](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=_tXYJrP6mOCuE1DA)
 -  [Spring Boot](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=5iEp4ay-CGApVEVT)
 ---
-## Step 5 :  Open source : 
+## Project : 
+### 1. [Email Sender](https://youtube.com/playlist?list=PL0zysOflRCenujRE0Nfdqo3W6dJgiPlku&si=hb8xKMeERlQN1poC)
+### 2. [Payment Integration](https://youtu.be/-Ke6JYqTM_s?si=_JuIIhkuWA9drBey)
+### 3. [Asynchronous API Development](https://youtu.be/yFpAcMol2Ao?si=H1CetR73lyn6FWEl)
+---
+## Step 5 :  Git GitHub Open sourse  : 
+
 - (Click)[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
 ---
 ## Frontend : 
