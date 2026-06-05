@@ -61,11 +61,7 @@
 - (Redis part 2 )[https://youtu.be/2srQ-RiJHps?si=oeJMtLfc4x6_Z3DR]
 - (Apche Kafka)[https://youtu.be/NWLwGtkBrkQ?si=cqrE4DHNKQ1acK5S]
 ---
-### AI - 
-- Ai Check here - [go !!](https://youtube.com/playlist?list=PLxhSr_SLdXGO6LQ-yZpwvO6a8IP7mDkMp&si=8zy4BEj0pWVsZw9Y)
-- AI Microservice Full Stack Project
-- Smart Research Assistant
-- Smart Email Assistant
-- Audio Transcriber
-- Stock Photo Generator
+## AI - 
+### [Spring AI ](https://youtube.com/playlist?list=PL0zysOflRCen1TeDUm-ebl9T-WbJygCGE&si=k3zVU_z-59VjUGOd)
+
 
