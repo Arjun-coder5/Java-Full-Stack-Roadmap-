@@ -55,11 +55,7 @@
 - [CI/CD PIPELINES](https://youtu.be/Hi6MGNhImFc?si=vGc8W1jjeNuapLPb)
 - Project - Job Application System .
 ---
----
-## Step - 8 :  Advance topic : 
-- (Redis Part 1 )[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
-- (Redis part 2 )[https://youtu.be/2srQ-RiJHps?si=oeJMtLfc4x6_Z3DR]
-- (Apche Kafka)[https://youtu.be/NWLwGtkBrkQ?si=cqrE4DHNKQ1acK5S]
+## [System Design](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=-9VBLLIaynCfZSKF) 
 ---
 ## AI - 
 ### [Spring AI ](https://youtube.com/playlist?list=PL0zysOflRCen1TeDUm-ebl9T-WbJygCGE&si=k3zVU_z-59VjUGOd)
