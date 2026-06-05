@@ -16,6 +16,8 @@
 - Banking System
 - Hostipal Management System
 ---
+### Serverlet and JSP : 
+- [Go !!](https://youtu.be/OuBUUkQfBYM?si=M6ge7_UzucTsVvEH)
 ### Spring framework and Spring Boot
 -  [Maven Crash Course](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4)
 -  [Spring Framework](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=_tXYJrP6mOCuE1DA)
