@@ -26,7 +26,8 @@
 - [MySql To JDBC  ](https://youtube.com/playlist?list=PL0zysOflRCekwpUvyfadb7niCesi8d97r&si=-LgFtI7hiWaOibA2)
 - [JDBC](https://youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&si=h0-MyglX-VevidOJ)
 ---
-## project :
+## project : 
+## **Tech Stack:** Java → OOP → Exception Handling → Collections Framework → JDBC → MySQL → SQL → Transactions → CRUD Operations
 - ### 1. Hospital reservation System
 - ### 2. Banking System
 - ### 3. Hospital Management System 
@@ -35,7 +36,8 @@
 ### Serverlet and JSP : 
 - [Go !!](https://youtu.be/OuBUUkQfBYM?si=M6ge7_UzucTsVvEH)
 ---
-### Project :
+### Project : 
+### **Tech Stack:** Java → Servlet → JSP → JDBC → MySQL → Bootstrap → MVC Architecture → Session Management → CRUD Operations
 - [Student Management System](https://youtube.com/playlist?list=PLwInXzO5Dtd9qD3MHQ6yhgwAwAEJdI_tG&si=0GI1ufquPoOtcMwy)
 ---
 ## This is where backend development begins.
