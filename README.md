@@ -56,8 +56,8 @@
 ---
 ## Spring Project  : 
 ### 1. [Email Sender](https://youtube.com/playlist?list=PL0zysOflRCenujRE0Nfdqo3W6dJgiPlku&si=hb8xKMeERlQN1poC)
-### 2. [Payment Integration](https://youtu.be/-Ke6JYqTM_s?si=_JuIIhkuWA9drBey)
-### 3. [Asynchronous API Development](https://youtu.be/yFpAcMol2Ao?si=H1CetR73lyn6FWEl)
+### 2. [Expense Tracker](https://www.youtube.com/watch?v=Z0hj1_OGCz8)
+### 3. [Bitly Clone - Url Shortner](https://youtu.be/icm4JQdi9NU?si=h-YeWqHRCpJy8XE3)
 ---
 ## Step 5 : Open sourse  : 
 - [OpenSourse](https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ)
@@ -65,13 +65,7 @@
 ## Frontend : 
 - [Go !!](https://youtube.com/playlist?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&si=M_EV-PuEPQqhJeXn)
 ---
-## Full Stack Project : 
-- [Ecommerce Project](https://youtube.com/playlist?list=PL7Oro2kvkIzK9X9ctS7bK3VVq0zsEYQsR&si=yopVLQItdIZFtP_J)
-- [Task Management Project](https://youtube.com/playlist?list=PL7Oro2kvkIzISiwQwemiIvZiYtHfTfSWr&si=sDvWLf0FaH-mNgmJ)
-- [Project Management System](https://youtube.com/playlist?list=PL7Oro2kvkIzIvhewSNelK4mAlc3lYFjUX&si=XOlE9h5QVUmiVaXd)
-- Etc .
-- Portfolio Website . 
----
+-
 
 ## Testing : 
 - (Junit5 and mockit)[https://youtu.be/zK1O8pIx_oM?si=jgm9T_PRUci9lKWU]
