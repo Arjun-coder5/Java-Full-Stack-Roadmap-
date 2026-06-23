@@ -22,6 +22,7 @@
 -  [Maven Crash Course](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4)
 -  [Spring Framework](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=_tXYJrP6mOCuE1DA)
 -  [Spring Boot](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=5iEp4ay-CGApVEVT)
+-  [Spring Ecommerce MasterClass](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/55587873/?udfrontends=true)
 ---
 ## Project : 
 ### 1. [Email Sender](https://youtube.com/playlist?list=PL0zysOflRCenujRE0Nfdqo3W6dJgiPlku&si=hb8xKMeERlQN1poC)
