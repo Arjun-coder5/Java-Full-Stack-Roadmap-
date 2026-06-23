@@ -1,3 +1,26 @@
+## Java Learner
+↓
+## Java Programmer
+↓
+## Backend Developer
+↓
+## Spring Boot Developer
+↓
+## Full Stack Developer
+↓
+## Cloud Developer
+↓
+## AI Developer
+↓
+## System Designer
+
+
+
+## You're learning how Java thinks.
+## Why threads exist.
+## Why collections exist.
+## How data moves from memory to files and databases.
+## This is where a programmer is born.
 ### 🔹 Advanced Concepts - core Java :) 
 - [Exception Handling](https://youtu.be/IZu5rZTN7PI?si=G4HRFe6BX3FHFHb9)
 - [Collection Framework](https://youtu.be/BMzp_U6IkoY?si=GPYsMepF9xy-Pg3P)
@@ -16,16 +39,19 @@
 - Banking System
 - Hostipal Management System
 ---
+## How does a browser talk to Java?
 ### Serverlet and JSP : 
 - [Go !!](https://youtu.be/OuBUUkQfBYM?si=M6ge7_UzucTsVvEH)
 ---
 ### Project :
 - [Student Management System](https://youtube.com/playlist?list=PLwInXzO5Dtd9qD3MHQ6yhgwAwAEJdI_tG&si=0GI1ufquPoOtcMwy)
 ---
+## This is where backend development begins.
 ### Development Tools : 
 - [Maven Crash Course](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4)
 - [Git and Github](https://www.youtube.com/watch?v=MuZySo5lF8E)
 ---
+## 
 ### Spring framework and Spring Boot
 -  [Spring Framework](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=_tXYJrP6mOCuE1DA)
 -  [Spring Boot](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=5iEp4ay-CGApVEVT)
