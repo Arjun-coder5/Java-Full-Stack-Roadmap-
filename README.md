@@ -13,14 +13,8 @@
 ## AI Developer
 ↓
 ## System Designer
-
-
-
-## You're learning how Java thinks.
-## Why threads exist.
-## Why collections exist.
-## How data moves from memory to files and databases.
-## This is where a programmer is born.
+---
+# Step 1 : 
 ### 🔹 Advanced Concepts - core Java :) 
 - [Exception Handling](https://youtu.be/IZu5rZTN7PI?si=G4HRFe6BX3FHFHb9)
 - [Collection Framework](https://youtu.be/BMzp_U6IkoY?si=GPYsMepF9xy-Pg3P)
@@ -32,13 +26,9 @@
 - [MySql To JDBC  ](https://youtube.com/playlist?list=PL0zysOflRCekwpUvyfadb7niCesi8d97r&si=-LgFtI7hiWaOibA2)
 - [JDBC](https://youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG&si=h0-MyglX-VevidOJ)
 ---
-### project PRACTISE :
-- Java Employee Rolepay system : [go !!](https://youtu.be/o-JnANhtMVM?si=ilVl-489sE2IDbI3) - Done 
-- Java Car rental System : [go !!](https://youtu.be/MHJnHv88WSI?si=z-FlN0MH5AdC9VBa)
-- Hotel Reservation System
-- Banking System
-- Hostipal Management System
----
+### project :
+-1. 
+-2. 
 ## How does a browser talk to Java?
 ### Serverlet and JSP : 
 - [Go !!](https://youtu.be/OuBUUkQfBYM?si=M6ge7_UzucTsVvEH)
