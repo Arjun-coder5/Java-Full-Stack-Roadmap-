@@ -87,6 +87,7 @@
 ---
 ## Project : 
 - [Practise Small Project](https://youtube.com/playlist?list=PLxhSr_SLdXGO6LQ-yZpwvO6a8IP7mDkMp&si=93569iOZ5cQJWOLQ)
+- [Ai powered Fitness App](https://youtube.com/playlist?list=PLxhSr_SLdXGPwiZOfI2ZLX4Yvm8OMaJ2A&si=QQV3gbHXLKTWtWfr)
 - [Ai powered Job Portal System](https://youtu.be/3jxt9Ekta-w?si=7lDIdzDCGvAinvQa)
 ## [System Design](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=-9VBLLIaynCfZSKF) 
 ---
