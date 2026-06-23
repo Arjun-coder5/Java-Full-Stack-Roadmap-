@@ -65,7 +65,9 @@
 ## Frontend : 
 - [Go !!](https://youtube.com/playlist?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&si=M_EV-PuEPQqhJeXn)
 ---
--
+## Project - \
+- [Liberary Management System](https://youtu.be/jZojHz7jp5Q?si=ZV429dM7Vw-HuptY)
+- [Portfolio]
 
 ## Testing : 
 - (Junit5 and mockit)[https://youtu.be/zK1O8pIx_oM?si=jgm9T_PRUci9lKWU]
