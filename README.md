@@ -30,6 +30,7 @@
 -  [Spring Framework](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=_tXYJrP6mOCuE1DA)
 -  [Spring Boot](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=5iEp4ay-CGApVEVT)
 -  [Spring Ecommerce MasterClass](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/55587873/?udfrontends=true)
+-  [Spring Boot Blog Application System](https://youtube.com/playlist?list=PL6Rs84MkNq7kv3auhwU6gOVDvJ1eH_Wax&si=Qkir-6rpV9mAArbg)
 ---
 ## Spring Project  : 
 ### 1. [Email Sender](https://youtube.com/playlist?list=PL0zysOflRCenujRE0Nfdqo3W6dJgiPlku&si=hb8xKMeERlQN1poC)
