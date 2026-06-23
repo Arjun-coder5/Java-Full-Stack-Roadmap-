@@ -66,9 +66,14 @@
 - [CI/CD PIPELINES](https://youtu.be/Hi6MGNhImFc?si=vGc8W1jjeNuapLPb)
 - Project - Job Application System .
 ---
+## Project  - 
+- [Airlone Booking System](https://youtu.be/yFoI4a3HbO0?si=6pbAmh7RyUSZHWZX)
+---
+## [Spring AI](https://youtube.com/playlist?list=PL0zysOflRCen1TeDUm-ebl9T-WbJygCGE&si=k37Teqs10p9ICXjW)
+---
+## Project : 
+- [Practise Small Project](https://youtube.com/playlist?list=PLxhSr_SLdXGO6LQ-yZpwvO6a8IP7mDkMp&si=93569iOZ5cQJWOLQ)
+- [Ai powered Job Portal System](https://youtu.be/3jxt9Ekta-w?si=7lDIdzDCGvAinvQa)
 ## [System Design](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=-9VBLLIaynCfZSKF) 
 ---
-## AI - 
-### [Spring AI ](https://youtube.com/playlist?list=PL0zysOflRCen1TeDUm-ebl9T-WbJygCGE&si=k3zVU_z-59VjUGOd)
-
 
