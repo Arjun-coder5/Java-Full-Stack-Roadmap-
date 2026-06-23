@@ -18,19 +18,25 @@
 ---
 ### Serverlet and JSP : 
 - [Go !!](https://youtu.be/OuBUUkQfBYM?si=M6ge7_UzucTsVvEH)
+---
+### Project :
+- [Student Management System](https://youtube.com/playlist?list=PLwInXzO5Dtd9qD3MHQ6yhgwAwAEJdI_tG&si=0GI1ufquPoOtcMwy)
+---
+### Development Tools : 
+- [Maven Crash Course](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4)
+- [Git and Github](https://www.youtube.com/watch?v=MuZySo5lF8E)
+---
 ### Spring framework and Spring Boot
--  [Maven Crash Course](https://youtu.be/ybQAmFsVQqA?si=4_w0LCJU4Jqf6Mw4)
 -  [Spring Framework](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=_tXYJrP6mOCuE1DA)
 -  [Spring Boot](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=5iEp4ay-CGApVEVT)
 -  [Spring Ecommerce MasterClass](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/55587873/?udfrontends=true)
 ---
-## Project : 
+## Spring Project  : 
 ### 1. [Email Sender](https://youtube.com/playlist?list=PL0zysOflRCenujRE0Nfdqo3W6dJgiPlku&si=hb8xKMeERlQN1poC)
 ### 2. [Payment Integration](https://youtu.be/-Ke6JYqTM_s?si=_JuIIhkuWA9drBey)
 ### 3. [Asynchronous API Development](https://youtu.be/yFpAcMol2Ao?si=H1CetR73lyn6FWEl)
 ---
-## Step 5 :  Git GitHub Open sourse  : 
-- [Git and Github](https://www.youtube.com/watch?v=MuZySo5lF8E)
+## Step 5 : Open sourse  : 
 - [OpenSourse](https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ)
 ---
 ## Frontend : 
