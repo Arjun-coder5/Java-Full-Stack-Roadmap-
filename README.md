@@ -31,7 +31,7 @@
 ---
 ## Step 5 :  Git GitHub Open sourse  : 
 - [Git and Github](https://www.youtube.com/watch?v=MuZySo5lF8E)
-- (OpenSourse)[https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ]
+- [OpenSourse](https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7&si=D039Huy7rhO-vGiJ)
 ---
 ## Frontend : 
 - [Go !!](https://youtube.com/playlist?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&si=M_EV-PuEPQqhJeXn)
