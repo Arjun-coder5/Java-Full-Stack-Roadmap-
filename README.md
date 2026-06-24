@@ -1,19 +1,3 @@
-## Java Learner
-↓
-## Java Programmer
-↓
-## Backend Developer
-↓
-## Spring Boot Developer
-↓
-## Full Stack Developer
-↓
-## Cloud Developer
-↓
-## AI Developer
-↓
-## System Designer
----
 # Step 1 : 
 ### 🔹 Advanced Concepts - core Java :) 
 - [Exception Handling](https://youtu.be/IZu5rZTN7PI?si=G4HRFe6BX3FHFHb9)
